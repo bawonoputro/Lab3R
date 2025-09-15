@@ -1,0 +1,21 @@
+Package: lab3parba751
+Type: Package
+Title: Lab 3 Euclidean and Dijkstra
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Paripurna", "Bawonoputro",
+      email = "parba751@student.liu.se",
+      role = c("aut", "cre")
+    )
+  )
+Description: This package can be used for finding the Greatest Common Divisor
+  between two numbers using the Euclidean algorithm and for finding the
+  closest distance using Dijkstra's algorithm.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.3
+Roxygen: list(markdown = TRUE)
+Depends: 
+    R (>= 3.5)
