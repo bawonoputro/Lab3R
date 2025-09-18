@@ -9,7 +9,7 @@
 #' }
 #'
 #' @references
-#' Wikipedia: Dijkstra algorithm
+#' Wikipedia: Dijkstra's algorithm
 #' \url{https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm}
 #'
 #' @examples
@@ -21,4 +21,5 @@
 #' #Example: run Dijkstra starting from node 3
 #' dijkstra(wiki_graph, 3)
 #'
+#' data(wiki_graph)
 "wiki_graph"
