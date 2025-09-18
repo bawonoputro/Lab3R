@@ -7,7 +7,12 @@ Authors@R: c(
       "Paripurna", "Bawonoputro",
       email = "parba751@student.liu.se",
       role = c("aut", "cre")
-    )
+    ),
+    person(
+      "Sreyas", "A S",
+      email = "sread272@student.liu.se",
+      role = c("aut")
+      )
   )
 Description: This package can be used for finding the Greatest Common Divisor
   between two numbers using the Euclidean algorithm and for finding the
