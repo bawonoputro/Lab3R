@@ -32,7 +32,7 @@ dijkstra(wiki_graph, 3)
 data(wiki_graph)
 }
 \references{
-Wikipedia: Dijkstra's algorithm
-\url{https://en.wikipedia.org/wiki/Dijkstra\%27s_algorithm}
+Wikipedia: Wiki Graph
+\url{https://en.wikipedia.org/wiki/Graph_(discrete mathematics)}
 }
 \keyword{datasets}

@@ -9,8 +9,8 @@
 #' }
 #'
 #' @references
-#' Wikipedia: Dijkstra's algorithm
-#' \url{https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm}
+#' Wikipedia: Wiki Graph
+#' \url{https://en.wikipedia.org/wiki/Graph_(discrete mathematics)}
 #'
 #' @examples
 #' data(wiki_graph)
